@@ -1,0 +1,2 @@
+rootProject.name = 'PortalBoatBlocker'
+include 'paper-plugin', 'velocity-plugin'
