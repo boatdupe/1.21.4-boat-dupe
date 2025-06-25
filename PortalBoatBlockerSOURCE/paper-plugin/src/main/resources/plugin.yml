@@ -1,0 +1,6 @@
+name: PortalBoatBlocker
+main: com.alphasilk.portalboatblocker.paper.PaperPlugin
+version: 1.0.0
+api-version: 1.20
+description: Blocks chest boats from going through portals and triggers dupe
+author: Alphasilk

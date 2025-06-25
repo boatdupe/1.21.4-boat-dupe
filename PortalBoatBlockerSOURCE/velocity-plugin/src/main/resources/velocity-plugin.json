@@ -1,0 +1,7 @@
+{
+  "id": "portalboatblocker",
+  "name": "PortalBoatBlocker",
+  "version": "1.0.0",
+  "main": "com.alphasilk.portalboatblocker.proxy.ProxyPlugin",
+  "authors": ["Alphasilk"]
+}

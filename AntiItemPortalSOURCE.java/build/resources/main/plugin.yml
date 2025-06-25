@@ -1,0 +1,4 @@
+name: AntiItemPortal
+version: 1.0
+main: your.plugin.namespace.AntiItemPortal
+api-version: 1.20
